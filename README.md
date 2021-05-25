@@ -2,7 +2,7 @@
 ### Welcome to my Git-Hub page!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FernandoRoldan93)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
+[![Instagram](https://img.shields.io/badge/-Instagram-ff69ba?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/rafael.fortes_/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
 
 I am Rafael, I am from Brazil and I am currently finishing high school. I'm a lover for technologies and love to learn it!
