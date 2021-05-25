@@ -1,8 +1,8 @@
 ### Hi there 👋 
 ### Welcome to my Git-Hub page!
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FernandoRoldan93)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Rafael-Fortes)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rafael2003santos1@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-ff69ba?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/rafael.fortes_/)
 
 I am Rafael, I am from Brazil and I am currently finishing high school. I'm a lover for technologies and love to learn it!
