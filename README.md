@@ -2,6 +2,7 @@
 ### Welcome to my Git-Hub page!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Rafael-Fortes)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-000?style=flat&logo=Hackerrank&logoColor=green)](https://www.hackerrank.com/rafael2003santos)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rafael2003santos1@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-ff69ba?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/rafael.fortes_/)
 
