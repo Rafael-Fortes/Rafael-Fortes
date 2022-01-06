@@ -2,7 +2,7 @@
 ### Welcome to my Git-Hub page!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Rafael-Fortes)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-000?style=flat&logo=Hackerrank&logoColor=green)](https://www.hackerrank.com/rafael2003santos)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-000?style=flat&logo=Hackerrank&logoColor=green)](https://www.hackerrank.com/RafaelFortes)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/rafael.fortes_/)
 
 My name is Rafael, I'm 19 and I am passionate for technologies. I love to learn new things, listen to music and watch a good serie.
