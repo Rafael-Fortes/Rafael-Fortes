@@ -1,28 +1,32 @@
-### Hi there 👋 
-### Welcome to my Git-Hub page!
+## 👦 Hey there!
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-000?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-fortes-464a74212/)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-000?style=flat&logo=Hackerrank&logoColor=green)](https://www.hackerrank.com/RafaelFortes)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/rafael.fortes_/)
+I'm Rafael, a student and developer of cool and useful things.
 
----
+I'm interesting in Data Science, Machine Learning and web development
 
-**_My name is Rafael, I'm 19 and I'm from Brazil. I'm a developer of cool and useful things. I'm interesting in Data Science, machine learning and technologies in general_**
+I'm currently studying APIs development.
 
-👉 Now I'm studing API's development
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafael-Fortes&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Fortes&layout=compact&theme=tokyonight"/>
+</div>
 
-#### :computer: Programming languages and tools:
+### 👍 Let's get connected:
 
-<p>
-  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Rafael-Fortes&show_icons=true&hide_border=true" />
-  
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="10%" src="https://upload.vectorlogo.zone/logos/pydata_pandas/images/3379b038-0796-45fe-8467-3fba66c10b70.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-</p>
+[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-fortes-464a74212/)
+[![Dev.To](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/rafaelfortes)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafael.fortes_/)
 
-<p>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-</p>
+### 🛠️ Technologies e Tools I use:
+
+<div>
+<img align="center" alt="Rafael-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img align="center" alt="Rafael-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="center" alt="Rafael-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+<img align="center" alt="Rafael-Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
+<img align="center" alt="Rafael-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="center" alt="Rafael-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<img align="center" alt="Rafael-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
+
+
+</div>
