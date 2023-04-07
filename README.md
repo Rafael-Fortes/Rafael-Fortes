@@ -1,6 +1,6 @@
 ## 👦 Hey there!
 
-I'm Rafael, a student of information systems at Federal University of Itajuba (UNIFEI) and developer of cool and useful things.
+I'm Rafael, a student of information systems at Federal University of Itajuba (UNIFEI) and developer of cool things.
 
 I'm interesting in Data Science and Machine Learning
 
